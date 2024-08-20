@@ -1,0 +1,7 @@
+streamlit
+crewai
+crewai_tools
+python-dotenv
+pypdf
+langchain
+llama-cpp-python
